@@ -5,7 +5,7 @@
   <div>
     <a href="http://github.com/github">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=franciscoruan&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscoruan&layout=compact""https://github.com/anuraghazra/github-readme-stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscoruan&layout=compact&theme=midnight-purple""https://github.com/anuraghazra/github-readme-stats"/>
   </div>
   
   
@@ -19,3 +19,4 @@
   
   <div>
     <a href="https://steamcommunity.com/id/steamjokerghost/" target="_blank" ><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target=_"blank"></a>
+
